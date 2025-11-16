@@ -1,4 +1,9 @@
 ## Hi there 👋
+No need to talk to much lets start:  
+
+## What I am learning now?
+- Git & GitHub
+- C++
 
 <!--
 **Streak-Conquer/Streak-Conquer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
